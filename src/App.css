@@ -1,6 +1,7 @@
 :root {
   --color-tan: rgb(241, 240, 240);
   --color-main: black;
+  --color-white: white;
 }
 
 li {
@@ -9,4 +10,5 @@ li {
 
 a {
   text-decoration: none;
+  color: inherit;
 }

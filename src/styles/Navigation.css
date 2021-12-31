@@ -4,12 +4,11 @@
 }
 
 .Navigation ul {
-  margin: 1em;
   padding: 0;
-  width: 100%;
   display: flex;
   flex-flow: row wrap;
   justify-content: center;
+  box-sizing: border-box;
 }
 
 .Navigation ul li {

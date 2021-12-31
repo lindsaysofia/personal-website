@@ -1,0 +1,21 @@
+.Home {
+  position: relative;
+  height: 50vh;
+  width: 100vw;
+  background-image: url('../images/home.jpeg');
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: var(--color-white);
+}
+
+.image-credit {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
