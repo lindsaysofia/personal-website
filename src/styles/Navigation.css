@@ -1,0 +1,23 @@
+.Navigation {
+  border-bottom: 1px solid var(--color-tan);
+  position: static;
+}
+
+.Navigation ul {
+  margin: 1em;
+  padding: 0;
+  width: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
+
+.Navigation ul li {
+  border-right: 1px solid var(--color-tan);
+  padding: 1em;
+}
+
+.Navigation ul li a {
+  color: var(--color-main);
+  text-align: center;
+}
