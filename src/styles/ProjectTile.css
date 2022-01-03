@@ -1,10 +1,10 @@
 .ProjectTile {
+  position: relative;
   background-color: var(--color-tan);
   color: var(--color-main);
   display: flex;
   flex-direction: column;
   align-items: center;
-  text-transform: capitalize;
   border-radius: 15px;
 }
 
@@ -32,6 +32,14 @@
   width: 400px;
   border-top-left-radius: 15px;
   border-top-right-radius: 15px;
+}
+
+.ProjectTile-description {
+  box-sizing: border-box;
+  max-width: 400px;
+  padding: 1em;
+  margin: 0;
+  text-transform: none;
 }
 
 .ProjectTile-buttons {

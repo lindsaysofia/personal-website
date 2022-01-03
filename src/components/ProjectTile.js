@@ -9,7 +9,7 @@ function ProjectTile(props) {
         alt=""
       />
       <h3>{project.name}</h3>
-      <p>{project.description}</p>
+      <p className="ProjectTile-description">{project.description}</p>
       <div className="ProjectTile-buttons">
         <a href={`${githubDemo}${project.project}`} target="_blank" rel="noreferrer">
           <button>
