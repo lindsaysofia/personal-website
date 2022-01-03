@@ -8,6 +8,10 @@
   border-radius: 15px;
 }
 
+.ProjectTile:hover {
+  background-color: rgba(111, 0, 255, 0.125);
+}
+
 .ProjectTile.left {
   justify-self: end;
 }
