@@ -15,6 +15,7 @@
 h2.section-header {
   align-self: flex-start;
   width: 100%;
+  padding-left: 1em;
 }
 
 li {
