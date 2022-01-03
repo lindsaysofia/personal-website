@@ -1,10 +1,11 @@
 .ProjectTile {
-  background-color: var(--color-white);
+  background-color: var(--color-tan);
   color: var(--color-main);
   display: flex;
   flex-direction: column;
   align-items: center;
   text-transform: capitalize;
+  border-radius: 15px;
 }
 
 .ProjectTile.left {
@@ -25,6 +26,8 @@
 
 .ProjectTile img {
   width: 400px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
 }
 
 .ProjectTile-buttons {
@@ -36,13 +39,16 @@
 
 .ProjectTile-buttons button {
   padding: 1em;
-  background-color: var(--color-main);
-  color: var(--color-white);
-  border: none;
+  border: 1px solid var(--color-purple);
+  color: var(--color-purple);
+  background-color: inherit;
   outline: none;
   border-radius: 15px;
+  font-weight:bold;
 }
 
 .ProjectTile-buttons button:hover {
   cursor: pointer;
+  background-color: var(--color-purple);
+  color: var(--color-white);
 }

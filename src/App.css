@@ -2,7 +2,7 @@
   --color-tan: rgb(241, 240, 240);
   --color-main: black;
   --color-white: white;
-  --color-purple: 	#4B0082;
+  --color-purple: 	#6f00ff ;
   --color-blue: #00008B;
   --color-pink: #E75480;
 }
@@ -13,9 +13,17 @@
 }
 
 h2.section-header {
-  align-self: flex-start;
+  box-sizing: border-box;
   width: 100%;
   padding-left: 1em;
+  /* background-color: var(--color-purple);
+  color: var(--color-white); */
+  margin: 0;
+  padding: 1em;
+}
+
+span.color-main {
+  color: var(--color-purple);
 }
 
 li {

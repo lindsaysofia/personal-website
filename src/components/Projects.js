@@ -6,7 +6,7 @@ function Projects(props) {
 
   return (
     <div className="Projects" id="projects">
-      <h2 className="section-header">Projects</h2>
+      <h2 className="section-header"><span className="color-main">{"<"}</span>My Projects <span className="color-main">{"/>"}</span></h2>
       <div className="Projects-content">
         {projects.map((project, index) => {
           return (

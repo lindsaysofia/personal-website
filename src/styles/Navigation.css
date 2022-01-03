@@ -19,7 +19,15 @@
   padding: 1em;
 }
 
+.Navigation ul li:last-child {
+  border-right: none;
+}
+
 .Navigation ul li a {
   color: var(--color-main);
   text-align: center;
+}
+
+.Navigation ul li a:hover {
+  color: var(--color-purple);
 }
