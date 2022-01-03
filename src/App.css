@@ -2,6 +2,19 @@
   --color-tan: rgb(241, 240, 240);
   --color-main: black;
   --color-white: white;
+  --color-purple: 	#4B0082;
+  --color-blue: #00008B;
+  --color-pink: #E75480;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+}
+
+h2.section-header {
+  align-self: flex-start;
+  width: 100%;
 }
 
 li {

@@ -1,0 +1,10 @@
+.About {
+  color: var(--color-main);
+  display: flex;
+  flex-direction: column;
+}
+
+.About-content {
+  align-self: center;
+  width: 50%;
+}
