@@ -20,14 +20,6 @@
   justify-self: start;
 }
 
-@media only screen and (max-width: 850px) {
-  .ProjectTile.left,
-  .ProjectTile.right
-  {
-    justify-self: center;
-  }
-}
-
 .ProjectTile img {
   width: 400px;
   border-top-left-radius: 15px;
@@ -63,4 +55,21 @@
   cursor: pointer;
   background-color: var(--color-purple);
   color: var(--color-white);
+}
+
+@media only screen and (max-width: 850px) {
+  .ProjectTile.left,
+  .ProjectTile.right
+  {
+    justify-self: center;
+  }
+  
+  .ProjectTile img { 
+    width: 250px;
+  }
+
+  .ProjectTile-description {
+    max-width: 250px;
+  }
+
 }
