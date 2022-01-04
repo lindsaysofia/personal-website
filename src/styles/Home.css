@@ -15,7 +15,8 @@
 }
 
 .Home h1 {
-  font-size: 3em;
+  font-family: 'Caveat Brush', cursive;
+  font-size: 5em;
   font-weight: bold;
   max-width: fit-content;
   text-align: center;

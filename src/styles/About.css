@@ -8,3 +8,8 @@
   align-self: center;
   width: 50%;
 }
+
+.About-haiku {
+  font-family: 'Caveat Brush', cursive;
+  font-size: 2em;
+}
