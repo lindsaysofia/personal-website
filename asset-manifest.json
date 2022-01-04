@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/personal-website/static/css/main.29990942.css",
+    "main.js": "/personal-website/static/js/main.40d6b136.js",
+    "static/js/787.3058b895.chunk.js": "/personal-website/static/js/787.3058b895.chunk.js",
+    "static/media/photo-tagging.png": "/personal-website/static/media/photo-tagging.b8899818e61fb94f62fc.png",
+    "static/media/restaurant-page.png": "/personal-website/static/media/restaurant-page.bdd04dac13dc5a685d91.png",
+    "static/media/shopping-cart.png": "/personal-website/static/media/shopping-cart.7052c70d9e08f724584a.png",
+    "static/media/memory-game.png": "/personal-website/static/media/memory-game.c3d7d180818cc66baa35.png",
+    "static/media/library.png": "/personal-website/static/media/library.2e7ab97e2b440a13a168.png",
+    "static/media/cv-project.png": "/personal-website/static/media/cv-project.585015fbf5eaccb175e3.png",
+    "static/media/home.jpeg": "/personal-website/static/media/home.a1a4633c1c59c560051a.jpeg",
+    "static/media/tic-tac-toe.png": "/personal-website/static/media/tic-tac-toe.ef2f2d797e98a5a7f186.png",
+    "static/media/battleship.png": "/personal-website/static/media/battleship.d7c691c135872589e362.png",
+    "static/media/todo-list.png": "/personal-website/static/media/todo-list.c200cc676b296d347ef6.png",
+    "static/media/etch-a-sketch.png": "/personal-website/static/media/etch-a-sketch.13d5f444c4cb47cee849.png",
+    "static/media/calculator.png": "/personal-website/static/media/calculator.cc8970c0e0f47746a114.png",
+    "index.html": "/personal-website/index.html",
+    "main.29990942.css.map": "/personal-website/static/css/main.29990942.css.map",
+    "main.40d6b136.js.map": "/personal-website/static/js/main.40d6b136.js.map",
+    "787.3058b895.chunk.js.map": "/personal-website/static/js/787.3058b895.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29990942.css",
+    "static/js/main.40d6b136.js"
+  ]
+}
